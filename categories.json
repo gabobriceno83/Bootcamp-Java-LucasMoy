@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
+    "category": "Prehistoria",
     "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
   },
   {
-    "category": "Deportes",
+    "category": "Mitologia Griega",
     "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
   },
   {
-    "category": "Arte",
+    "category": "Religion",
     "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
   },
   {
-    "category": "Cine",
+    "category": "Ufologia",
     "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
   },
   {
-    "category": "Historia",
+    "category": "Medicina",
     "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
   },
   {
-    "category": "Ciencia",
+    "category": "Guerras",
     "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
   }
 ]
