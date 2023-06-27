@@ -1,3 +1,5 @@
+/*Clase # 7 del bootcamp - Arreglos*/
+
 import java.util.Scanner;
 
 public class Arreglo {
